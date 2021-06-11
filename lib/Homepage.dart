@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:milk/milk_center_schema.dart';
 import 'package:razorpay_flutter/razorpay_flutter.dart';
 class HomePage extends StatefulWidget {
   @override
@@ -7,9 +6,6 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-  List<MilkCenter>mlkcnts=[];
-  bool _busy=true;
-  Razorpay _razorpay;
   @override
   void initState() {
     super.initState();
