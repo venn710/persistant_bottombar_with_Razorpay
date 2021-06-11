@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "934903038882",
+    "firebase_url": "https://flash-6241c.firebaseio.com",
+    "project_id": "flash-6241c",
+    "storage_bucket": "flash-6241c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934903038882:android:31e90ac0447efaefb128fb",
+        "android_client_info": {
+          "package_name": "com.example.milk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934903038882-0pr90tmud2c3ad80o893gdbfrcjp7ho9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXXSiMfOwbXcMx5hkx3q_v4dWei8aYfQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934903038882-0pr90tmud2c3ad80o893gdbfrcjp7ho9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
